@@ -9,6 +9,9 @@ This respository is a simple project for saving password in keychain using impor
  - https://stackoverflow.com/questions/33590842/is-there-any-way-could-save-username-and-password-in-device-using-swift-in-ios-t
  - https://stackoverflow.com/questions/30719638/save-and-retrieve-value-via-keychain
  - https://iosapptemplates.com/blog/ios-programming/keychain-swift-ios
+ - https://developer.apple.com/videos/play/wwdc2020/10115/
+ - https://ali-akhtar.medium.com/all-about-ios-12-autofill-passwords-tool-apis-8f095127fd99
+ - https://medium.com/developerinsider/ios12-password-autofill-automatic-strong-password-and-security-code-autofill-6e7db8da1810
 
 ### Test Project by Lee McCormick
 Learning Switf and Xcode is my passion. This project was built by following the tutorial and source code online.
