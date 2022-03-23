@@ -12,6 +12,7 @@ This respository is a simple project for saving password in keychain using impor
  - https://developer.apple.com/videos/play/wwdc2020/10115/
  - https://ali-akhtar.medium.com/all-about-ios-12-autofill-passwords-tool-apis-8f095127fd99
  - https://medium.com/developerinsider/ios12-password-autofill-automatic-strong-password-and-security-code-autofill-6e7db8da1810
+ - https://shirazkhan030.medium.com/biometric-authentication-in-ios-6c53c54f17df
 
 ### Test Project by Lee McCormick
 Learning Switf and Xcode is my passion. This project was built by following the tutorial and source code online.
